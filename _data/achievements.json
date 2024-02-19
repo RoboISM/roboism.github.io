@@ -14,18 +14,18 @@
         "brief": "eYRC IITB 2022-23 Finalists"
     },
     {
-        "title": "Winners of Petrichor IIT Palakkad 2022",
-        "image": "/images/mazepetrichor.png",
-        "description": "Heartiest congratulations to the victors of Petrichor'22, the annual techno-cultural fest of IIT Palakkad Maze Runner event, held from 7th January to 10th February 2022. The problem statement was to solve a given maze with a robot in simulation using ROS and Gazebo and using sensors of own choice. The robot was given limited chances and time limit to explore and solve the maze with dynamic obstacles too. The team put in several hours of preparation, execution, and hard work to finish first in the competition. ",
-        "participants": "Arjun PS, Aaditya Pramod, Tanishq Chaudhary",
-        "brief": "Winners of Petrichor IIT Palakkad 2022"
-    },
-    {
         "title": "Second Runner up in NXP AIM 2022 Self Driving car challenge",
         "image": "/images/nxp2022.jpg",
         "description": "Our members participated in AI and Mobility Self Driving car simulation and algorithm development challenge NXP AIM 2022 organised by the semi-conductor manufacturing company NXP. The problem statement was really fascinating where in one had been given tracks with static and dynamic obstacles of various kinds in Gazebo environment and the car had to be driven in ROS2 autonomously avoiding the obstacles and controlling its motion on different slopes. The team used YOLOV5 for object classification and detection and won INR 20k as prize money for using uniquely using YOLOV5 and also another prize for their algorithm design and code.",
         "participants": "Aniket Kumar Roy, Pranay Pandey, Dhruv Shah, Harshit Sharma, Tanishq Chaudhary",
         "brief": "2nd Runner up in NXP AIM 2022 competition"
+    },
+    {
+        "title": "Winners of Petrichor IIT Palakkad 2022",
+        "image": "/images/mazepetrichor.png",
+        "description": "Heartiest congratulations to the victors of Petrichor'22, the annual techno-cultural fest of IIT Palakkad Maze Runner event, held from 7th January to 10th February 2022. The problem statement was to solve a given maze with a robot in simulation using ROS and Gazebo and using sensors of own choice. The robot was given limited chances and time limit to explore and solve the maze with dynamic obstacles too. The team put in several hours of preparation, execution, and hard work to finish first in the competition. ",
+        "participants": "Arjun PS, Aaditya Pramod, Tanishq Chaudhary",
+        "brief": "Winners of Petrichor IIT Palakkad 2022"
     },
     {
         "title": "Inter IIT 2K21 - Agrobot Design Innovation Challenge Winners",
