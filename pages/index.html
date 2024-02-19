@@ -7,78 +7,98 @@ home: true
 ---
 
 <div class="block block--hero block--2-column">
-        <div class="block__image">
-            <img src="images/rendered1.png" alt="Rubik Cube Solver by RoboISM">
-        </div>
-        <div class="content content--hero">
-            <div class="content__heading">
-                Robotics<br>
-                & AI Club
-            </div>
-            <div class="content__sub-heading">
-                IIT (ISM) Dhanbad
-            </div>
-            <a href="#projects" class="button button--primary">
-                Our Projects
-            </a>
-        </div>
+    <div class="block__image">
+        <img src="images/rendered1.png" alt="Rubik Cube Solver by RoboISM">
     </div>
-    <div class="block block--2-column">
-        <div class="block__image">
-            <img src="images/terracebot.jpeg" alt="">
+    <div class="content content--hero">
+        <div class="content__heading">
+            Robotics<br>
+            & AI Club
         </div>
-        <div class="content">
-            <div class="content__heading">
-                About Us
-            </div>
-            <div class="content__content">
-                Robotics & AI Club is a student-run organization/club of Indian Institute of Technology (ISM) Dhanbad. The Robotics Club is a community of students who derive pleasure in creating mechanical peers that may even be potent to work without human intervention. Each member of this family is provided mechanical, electronic, monetary and informatory aid besides the
-            </div>
+        <div class="content__sub-heading">
+            IIT (ISM) Dhanbad
         </div>
-    </div>
-    <div class="block">
-        <div class="content">
-            <div class="content__heading">
-                Achievements
-            </div>
-            <div class="content__content" id="achievements">
-                {% for achievement in site.data.achievements limit:3 %}
-                    <div class="achievement-brief">
-                        {{ achievement.brief }}
-                    </div>
-                {% endfor %}
-            </div>
-        </div>
-        <a href="/achievements" class="button button--secondary">
-            View All
+        <a href="#projects" class="button button--primary">
+            Our Projects
         </a>
     </div>
-    <div class="block" id="projects">
-        <div class="content content--with-bottom">
-            <div class="content__heading">
-                Project Gallery
-            </div>
-            <div class="content__content content__content--gallery">
-                <div class="gallery-item">
-                    <div style="background-image: url('https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/9.png')"></div>
-                </div>
-                <div class="gallery-item">
-                    <div style="background-image: url('https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/16.png')"></div>
-                </div>
-                <div class="gallery-item">
-                    <div style="background-image: url('https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/10.png')"></div>
-                </div>
-            </div>
-        </div>
-        <a href="/projects" class="button button--secondary">
-            View All
-        </a>
+</div>
+<div class="block block--2-column">
+    <div class="block__image">
+        <img src="images/terracebot.jpeg" alt="">
     </div>
-    <div class="block">
-        <div class="grid">
-            {% for coordinator in site.data.coordinators %}
-                {% include team-member.html member=coordinator %}
+    <div class="content">
+        <div class="content__heading">
+            About Us
+        </div>
+        <div class="content__content">
+            Robotics & AI Club is a student-run organization/club of Indian Institute of Technology (ISM) Dhanbad. The
+            Robotics Club is a community of students who derive pleasure in creating mechanical peers that may even be
+            potent to work without human intervention. Each member of this family is provided mechanical, electronic,
+            monetary and informatory aid besides the
+        </div>
+    </div>
+</div>
+<div class="block">
+    <div class="content">
+        <div class="content__heading">
+            Achievements
+        </div>
+        <div class="content__content" id="achievements">
+            {% for achievement in site.data.achievements limit:3 %}
+            <div class="achievement-brief">
+                {{ achievement.brief }}
+            </div>
             {% endfor %}
         </div>
     </div>
+    <a href="/achievements" class="button button--secondary">
+        View All
+    </a>
+</div>
+<div class="block" id="projects">
+    <div class="content content--with-bottom">
+        <div class="content__heading">
+            Project Gallery
+        </div>
+        <div class="content__content content__content--gallery">
+            <div class="gallery-item">
+                <div style="background-image: url('https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/9.png')">
+                </div>
+            </div>
+            <div class="gallery-item">
+                <div style="background-image: url('https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/16.png')">
+                </div>
+            </div>
+            <div class="gallery-item">
+                <div style="background-image: url('https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/10.png')">
+                </div>
+            </div>
+        </div>
+    </div>
+    <a href="/projects" class="button button--secondary">
+        View All
+    </a>
+</div>
+<div class="block content">
+    <div class="content__heading">
+        FIC and Coordinators
+    </div>
+    <div class="grid">
+        {% for coordinator in site.data.coordinators %}
+        {% include team-member.html member=coordinator %}
+        {% endfor %}
+    </div>
+</div>
+<div class="block content">
+    <div class="content__heading">
+        Past FIC and Coordinators
+    </div>
+    
+    <div class="grid">
+        {% for coordinator in site.data.pastcoordinators %}
+        {% include team-member.html member=coordinator %}
+        {% endfor %}
+    </div>
+</div>
 </main>
