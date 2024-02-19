@@ -7,20 +7,20 @@
         "email": "zafar@iitism.ac.in"
     },
     {
-        "name": "Aditya Kumar Garg",
+        "name": "Shreyansh Shandilya",
         "position": "Coordinator",
-        "image": "/images/members/pre-finals/Aditya%20Kumar%20Garg.jpg",
-        "linkedin": "https://www.linkedin.com/in/aditya-kumar-garg-9a00b3192/",
-        "github": "https://github.com/aditya-kr-garg",
-        "email": "aditya.garg.rewa9800@gmail.com"
+        "image": "/images/members/coordinators/shreyanshshandilya.jpeg",
+        "linkedin": "https://www.linkedin.com/in/shreyansh-shandilya-5a8b1b246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "github": "https://github.com/shreyanshandilya",
+        "email": "shreyanshandilya@gmail.com",
+        "backgroundPosition": "top"
     },
     {
-        "name": "Surya Prakash Mishra",
+        "name": "Ebad Sayed",
         "position": "Coordinator",
-        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Surya%20Prakash%20Mishra.jpg",
-        "linkedin": "https://www.linkedin.com/in/surya-prakash-mishra-b69359192",
-        "github": "https://github.com/old-school-kid",
-        "email": "mishrasp393@gmail.com",
-        "backgroundPosition": "top"
+        "image": "/images/members/coordinators/ebadsayed.jpeg",
+        "linkedin": "https://www.linkedin.com/in/ebad-sayed-0861a6227/",
+        "github": "https://github.com/ES7",
+        "email": "sayedebad.777@gmail.com"
     }
 ]
