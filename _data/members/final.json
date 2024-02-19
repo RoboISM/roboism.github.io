@@ -1,109 +1,171 @@
 [
-    {
-      "name": "Abhishek Shah",
-      "position": "Final Year",
-      "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/ABHISHEK SHAH.jpg",
-      "linkedin": "https://www.linkedin.com/in/abhishek-shah-993019199",
-      "email": "cpabhishekshah10@gmail.com",
-      "backgroundPosition": "top"
-    },
-    {
-      "name": "Aditya Kumar Garg",
-      "position": "Final Year",
-      "image": "/images/members/pre-finals/Aditya Kumar Garg.jpg",
-      "linkedin": "http://www.linkedin.com/in/aditya-kumar-garg-9a00b3192",
-      "github": "https://github.com/aditya-kr-garg",
-      "email": "aditya.garg.rewa9800@gmail.com"
-    },
-    {
-      "name": "Akanksha Gupta",
-      "position": "Final Year",
-      "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Akanksha Gupta.jpg",
-      "linkedin": "https://www.linkedin.com/in/akanksha-gupta-9b6b5a1a4",
-      "email": "akgupta2391@gmail.com"
-    },
-    {
-      "name": "Aman Agrawal",
-      "position": "Final Year",
-      "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Aman Agarwal.jpg",
-      "linkedin": "https://www.linkedin.com/in/aman-agrawal-281852192",
-      "github": "https://github.com/amanagrawal5510",
-      "email": "amanagrawal5510@gmail.com",
-      "backgroundPosition": "top"
-    },
-    {
-      "name": "AV Jefferson",
-      "position": "Final Year",
-      "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/AV Jefferson.jpg",
-      "linkedin": "https://www.linkedin.com/in/jefferson-a-v-73972018a/",
-      "github": "https://github.com/AVJefferson",
-      "email": "avjeferson@gmail.com"
-    },
-    {
-      "name": "Ayush Tripathi",
-      "position": "Final Year",
-      "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Ayush Tripathi.jpg",
-      "linkedin": "https://www.linkedin.com/in/thinkayush",
-      "github": "https://github.com/AyushTripathi-sketch",
-      "email": "ayushtripathi766@gmail.com"
-    },
-    {
-      "name": "CVSS Santosh Kumar",
-      "position": "Final Year",
-      "image": "/images/members/pre-finals/Chepuri V S S Santosh Kumar.jpg",
-      "email": "santoshcvss17801@gmail.com"
-    },
-    {
-      "name": "Harsh Mishra",
-      "position": "Final Year",
-      "image": "/images/members/pre-finals/Harsh Mishra.jpg",
-      "linkedin": "https://www.linkedin.com/in/harsh-mishra-5384b11a0/",
-      "github": "https://github.com/MiHarsh",
-      "email": "harshm17172612@gmail.com"
-    },
-    {
-      "name": "Kartik Saini",
-      "position": "Final Year",
-      "image": "/images/members/pre-finals/Kartik Saini.jpg",
-      "linkedin": "https://www.linkedin.com/in/kartik-saini-001/",
-      "github": "https://github.com/Kartiksaini001",
-      "email": "kartik100saini@gmail.com",
-      "backgroundPosition": "top"
-    },
-    {
-      "name": "Kartike Kishore",
-      "position": "Final Year",
-      "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Kartike Kishore.jpg",
-      "linkedin": "https://www.linkedin.com/in/kartike-kishore-2163861a4",
-      "github": "https://github.com/kartikekishore",
-      "email": "kartikekishore@gmail.com"
-    },
-
-    {
-      "name": "Pratham Tahiliani",
-      "position": "Final Year",
-      "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Pratham Tahiliani.jpg",
-      "linkedin": "https://www.linkedin.com/in/pratham-tahiliani-a451561a4/",
-      "github": "https://github.com/Pratham333/Roboism.git",
-      "email": "pratham_tahiliani99@hotmail.com",
-      "backgroundPosition": "top"
-    },
-    {
-      "name": "Surya P Mishra",
-      "position": "Final Year",
-      "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Surya Prakash Mishra.jpg",
-      "linkedin": "https://www.linkedin.com/in/surya-prakash-mishra-b69359192",
-      "github": "https://github.com/old-school-kid",
-      "email": "mishrasp393@gmail.com",
-      "backgroundPosition": "top"
-    },
-    {
-      "name": "Swaraj Jain",
-      "position": "Final Year",
-      "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/me.png",
-      "linkedin": "https://www.linkedin.com/in/swaraj-jain-875b821a2/",
-      "github": "https://github.com/swaraj-jain",
-      "email": "Happy2000jain@gmail.com"
-    },
-  
+  {
+    "name": "Aditya Kumar Garg",
+    "position": "Super-Final Year",
+    "image": "/images/members/finalyear/Aditya Kumar Garg.jpg",
+    "linkedin": "http://www.linkedin.com/in/aditya-kumar-garg-9a00b3192",
+    "github": "https://github.com/aditya-kr-garg",
+    "email": "aditya.garg.rewa9800@gmail.com"
+  },
+  {
+    "name": "Aaditya Pramod",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Aaditya Pramod.jpeg",
+    "linkedin": "https://www.linkedin.com/in/aaditya-pramod-499937210/",
+    "github": "https://github.com/madpro25",
+    "email": "aaditya2002pramod@gmail.com",
+    "backgroundPosition": "top"
+  },
+  {
+    "name": "Aman Kanojiya",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Aman Kanojiya.jpg",
+    "linkedin": "https://www.linkedin.com/in/aman-kanojiya-782263188",
+    "github": "https://github.com/AMANKANOJIYA",
+    "email": "A.kanojiya2003@gmail.com"
+  },
+  {
+    "name": "Aman Pandey",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Aman Pandey.jpeg",
+    "linkedin": "https://www.linkedin.com/in/aman-pandey-a5600a1b9/",
+    "github": "https://github.com/Amanp16",
+    "email": "20je0109@pe.iitism.ac.in",
+    "backgroundPosition": "top"
+  },
+  {
+    "name": "Ambati Shasank Bhushan",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Ambati Shasank Bhushan.jpeg",
+    "linkedin": "https://www.linkedin.com/in/ambati-shasank-8687b6210/",
+    "github": "https://github.com/Shasank-Ambati",
+    "email": "shasank.ambati02@gmail.com",
+    "backgroundPosition": "top"
+  },
+  {
+    "name": "Aniket Kumar Roy",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Aniket Kumar Roy.jpg",
+    "linkedin": "https://www.linkedin.com/in/aniket-kumar-roy-5a9180204/",
+    "github": "https://github.com/Aniketkumarroy",
+    "email": "20je0128@me.iitism.ac.in"
+  },
+  {
+    "name": "Arjun P S",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Arjun P S.jpeg",
+    "linkedin": "https://www.linkedin.com/in/arjun-ps-837a38150/",
+    "github": "https://github.com/Arjun-P-S",
+    "email": "20je0181@ece.iitism.ac.in",
+    "backgroundPosition": "top"
+  },
+  {
+    "name": "Ayush Gupta",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Ayush Gupta.jpg",
+    "linkedin": "https://www.linkedin.com/in/ayush-gupta-486684201/",
+    "github": "https://github.com/Ayush18430",
+    "email": "20je0228@mech.iitism.ac.in"
+  },
+  {
+    "name": "Dhruv Shah",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/dhruvshah.jpg",
+    "linkedin": "https://www.linkedin.com/in/dhruv-shah-b8b480167/",
+    "github": "https://github.com/dhruvsh-1729?tab=repositories",
+    "email": "20je0326@mech.iitism.ac.in"
+  },
+  {
+    "name": "Harshit Sharma",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Harshit Sharma.jpeg",
+    "linkedin": "https://www.linkedin.com/in/harshit-s-025a91134/",
+    "github": "https://github.com/Zhedac",
+    "email": "20je0409@cse.iitism.ac.in",
+    "backgroundPosition": "top"
+  },
+  {
+    "name": "Herambh Dakshinamoorthy",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Herambh Dakshinamoorthy.png",
+    "linkedin": "www.linkedin.com/in/herambhd",
+    "github": "https://github.com/herambh03",
+    "email": "herambhd03@gmail.com",
+    "backgroundPosition": "top"
+  },
+  {
+    "name": "Karan Soni",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Karan Soni.jpeg",
+    "linkedin": "https://www.linkedin.com/in/karansoni1072002/",
+    "github": "https://github.com/karansoni1072002",
+    "email": "20je0960@ee.iitism.ac.in"
+  },
+  {
+    "name": "Muntaba Khan",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Muntaba Khan.jpeg",
+    "linkedin": "https://www.linkedin.com/in/muntaba-khan-a48308201",
+    "github": "https://github.com/Muntabakhan",
+    "email": "20je0591@mech.iitism.ac.in",
+    "backgroundPosition": "top"
+  },
+  {
+    "name": "Niyati Madaan",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Niyati Madaan.jpeg",
+    "linkedin": "https://www.linkedin.com/in/niyati-madaan-6b3319200",
+    "github": "https://github.com/niyatimadaan",
+    "email": "20je0645@mme.iitism.ac.in"
+  },
+  {
+    "name": "Pranay Pandey",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Pranay Pandey.jpeg",
+    "linkedin": "https://www.linkedin.com/in/pranay-pandey-ba1a11210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsAIKtKSmQcunjqO8TFUlQQ%3D%3D",
+    "github": "https://github.com/Pranay-Pandey",
+    "email": "pranaypandeyofficial@gmail.com",
+    "backgroundPosition": "top"
+  },
+  {
+    "name": "Priyanshu Singh",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Priyanshu Singh.jpg",
+    "linkedin": "https://www.linkedin.com/in/priyanshu-singh-b9a396191/",
+    "github": "https://github.com/priyanshusingh302",
+    "email": "priyanshusingh302@gmail.com",
+    "backgroundPosition": "center top"
+  },
+  {
+    "name": "Sakshi Dwivedi",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Sakshi Dwivedi.jpeg",
+    "linkedin": "https://www.linkedin.com/in/sakshi-dwivedi-36bbb11b9/",
+    "github": "https://github.com/sakshi1313",
+    "email": "sakshidwivedi13@gmail.com"
+  },
+  {
+    "name": "Shashvat Jain",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Shashvat Jain.jpeg",
+    "linkedin": "https://www.linkedin.com/in/shashvat-jain-847089210/",
+    "github": "https://github.com/Shashvat-Jain",
+    "email": "20je0897@mc.iitism.ac.in"
+  },
+  {
+    "name": "Shobhit Kumar",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Shobhit Kumar.jpg",
+    "linkedin": "https://www.linkedin.com/in/shobhitkumar374/",
+    "github": "https://github.com/Shobhit374",
+    "email": "shobhitkumar43@gmail.com"
+  },
+  {
+    "name": "Shreyansh Jain",
+    "position": "Final Year",
+    "image": "/images/members/finalyear/Shreyansh Jain.jpg",
+    "linkedin": "https://www.linkedin.com/in/shreyansh-jain-34b2271b2/",
+    "github": "https://github.com/sudoshreyansh/",
+    "email": "20je0924@mech.iitism.ac.in"
+  }
 ]
