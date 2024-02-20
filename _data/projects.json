@@ -1,13 +1,13 @@
 [
     {
         "name": "Swarm of Autonomous Drones (Inter IIT Tech Meet 2022)",
-        "description": "This project was part of the solution developed for the high prep problem statement in Inter IIT Tech Meet 2022 given by Drona Aviation company. The aim was to develop python wrappers for Pluto drones than controlling them using ROS and making the drones autonomously traverse a rectangular trajectory through websockets and computer vision for pose estimation and localisation. Once this was done the next part was to develop algorithm was two drones where one drone would be the master and the other one would be the slave following the trajectory of the master drone, the team was able to develop solution for all the subproblems. The video of the same is also available on the YouTube channel of the club.",
+        "description": "This project was part of the solution developed for the high prep problem statement in <b>Inter IIT Tech Meet 2022</b> given by Drona Aviation company. The aim was to develop python wrappers for <b>Pluto drones</b> than controlling them using ROS and making the drones autonomously traverse a rectangular trajectory through websockets and computer vision for pose estimation and localisation. Once this was done the next part was to develop algorithm was two drones where one drone would be the master and the other one would be the slave following the trajectory of the master drone, the team was able to develop solution for all the subproblems. The video of the same is also available on the YouTube channel of the club.",
         "image": "/images/interiit2022drone.webp",
         "video":"https://youtu.be/PdnE_47Gra4?si=RrVujMBClepQSohm"
     },
     {
         "name": "Autonomous Battery Swapper Robotic Arm (Inter IIT Tech Meet 2022)",
-        "description": "This project was part of the solution developed for the mid prep problem statement in Inter IIT Tech Meet 2022 given by Jaguar Land Rover company. The aim was to develop a practical CAD design in SOLIDWORKS for the autonomous battery swapping problem for electric vehicles. The arm had to be developed for given dimensions choosing the right working space, the constraints like the cost, practicality, size, etc and many other factors suggested by the company too. Also control systems had to be implemented in MATLAB and Simulink and the plots were explained in the final design report of the robotic arm designed. The animation video for this project is also available on the YouTube channel.",
+        "description": "This project was part of the solution developed for the mid prep problem statement in <b>Inter IIT Tech Meet 2022</b> given by Jaguar Land Rover company. The aim was to develop a practical <b>CAD design in SOLIDWORKS</b> for the autonomous battery swapping problem for electric vehicles. The arm had to be developed for given dimensions choosing the right working space, the constraints like the cost, practicality, size, etc and many other factors suggested by the company too. Also control systems had to be implemented in <b>MATLAB and Simulink</b> and the plots were explained in the final design report of the robotic arm designed. The animation video for this project is also available on the YouTube channel.",
         "image": "/images/interiit2022jlr.png",
         "video":"https://youtu.be/_ML-A-CZvcg?si=FrVEPdOg93SUxSZV"
     },
@@ -24,6 +24,11 @@
         "image": "/images/eyrcsentineldrone.webp",
         "github":"https://github.com/dhruvsh-1729/eyrc22_SD_1785",
         "video":"https://youtu.be/evg6zYMV03U"
+    },
+    {
+        "name": "Remotely Operated Underwater Vehicle Prototype",
+        "description": "This project was undertaken in the club in an attempt to explore underwater robotics which is a really exciting and growing field in robotics. This robot was a basic prototype which had all the electronics sealed inside a plastic box in the middle coated on the sides with resin, a ballast tank to take in water, 12V DC pump to push the water out and had a basic arm powered by three servo motors that could grab objects like small stones underwater. The test was successful and was developed and conducted by Shyam Babu Kamti from our club and now a bigger Autonomuous Underwater Vehicle project has been initiated in the club. Interestingly you can also counterweight sand packets at the other end of the ballast tank to balance the entire robot and make the center of gravity of the robot underwater in the stable zone according to the position of metacenter and center of buoyancy.",
+        "image": "/images/7.jpg"
     },
     {
         "name": "Autonomous Warehouse Robot",
