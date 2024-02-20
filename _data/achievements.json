@@ -21,6 +21,13 @@
         "brief": "2nd Runner up in NXP AIM 2022 competition"
     },
     {
+        "title": "Runner up in E-Yantra Robotics Competition IIT-Bombay 2021-22",
+        "image": "/images/eyantra2021.jpeg",
+        "description": "Our members achieved the second position in the Agribot theme of eYRC IITB 2021-22 with determination, perseverance plus the smart but also hard work. Their task was to detect the fruits on branches of plants in the orchard simulation environment using computer vision, then use perspective transformation to transform the coordinate from image to spatial coordinates, then perform inverse kinematics to command the robotic arm on ground robot to reach out, pluck and put the fruit in the basket onboard and also segregate them according to their color red, blue or yellow. After all the fruits are plucked from a tree, the robot has to follow the QR codes on the ground and reach out to the loading truck properly. It was a challenging problem statement and the tech stacks used were Coppeliasim, OpenCV and Lua as the programming language.",
+        "participants": "Aniket Kumar Roy, Ayushmaan Tiwari, Prachi Singh, Piyush Kumar Satpathy",
+        "brief": "Runner up in E-Yantra Robotics Competition IIT-Bombay 2021-22"
+    },
+    {
         "title": "Winners of Petrichor IIT Palakkad 2022",
         "image": "/images/mazepetrichor.png",
         "description": "Heartiest congratulations to the victors of Petrichor'22, the annual techno-cultural fest of IIT Palakkad Maze Runner event, held from 7th January to 10th February 2022. The problem statement was to solve a given maze with a robot in simulation using ROS and Gazebo and using sensors of own choice. The robot was given limited chances and time limit to explore and solve the maze with dynamic obstacles too. The team put in several hours of preparation, execution, and hard work to finish first in the competition. ",
