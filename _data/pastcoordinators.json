@@ -34,12 +34,27 @@
         "email": "aditya.garg.rewa9800@gmail.com"
     },
     {
-        "name": "Surya P Mishra",
+        "name": "Surya Prakash Mishra",
         "position": "2021-22 Coordinator",
         "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Surya Prakash Mishra.jpg",
         "linkedin": "https://www.linkedin.com/in/surya-prakash-mishra-b69359192",
         "github": "https://github.com/old-school-kid",
         "email": "mishrasp393@gmail.com",
         "backgroundPosition": "top"
-    }
+    },
+    {
+        "name": "K Jyothi Swaroop",
+        "position": "2020-21 Coordinator",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Kasina Jyothi Swaroop.jpg",
+        "linkedin": " https://www.linkedin.com/in/kasina-jyothi-swaroop-b62259168",
+        "github": "  https://github.com/kjyothiswaroop",
+        "email": "kasina.18je0405@ee.iitism.ac.in"
+      },
+      {
+        "name": "Srajan Gupta",
+        "position": "2020-21 Coordinator",
+        "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Srajan Gupta.jpg",
+        "linkedin": "https://www.linkedin.com/in/srajan-gupta-4a9650172",
+        "email": "srajan.gupta.712@gmail.com"
+      },
 ]

@@ -1,5 +1,51 @@
 [
     {
+        "name": "Swarm of Autonomous Drones (Inter IIT Tech Meet 2022)",
+        "description": "This project was part of the solution developed for the high prep problem statement in Inter IIT Tech Meet 2022 given by Drona Aviation company. The aim was to develop python wrappers for Pluto drones than controlling them using ROS and making the drones autonomously traverse a rectangular trajectory through websockets and computer vision for pose estimation and localisation. Once this was done the next part was to develop algorithm was two drones where one drone would be the master and the other one would be the slave following the trajectory of the master drone, the team was able to develop solution for all the subproblems. The video of the same is also available on the YouTube channel of the club.",
+        "image": "/images/interiit2022drone.webp",
+        "video":"https://youtu.be/PdnE_47Gra4?si=RrVujMBClepQSohm"
+    },
+    {
+        "name": "Autonomous Battery Swapper Robotic Arm (Inter IIT Tech Meet 2022)",
+        "description": "This project was part of the solution developed for the mid prep problem statement in Inter IIT Tech Meet 2022 given by Jaguar Land Rover company. The aim was to develop a practical CAD design in SOLIDWORKS for the autonomous battery swapping problem for electric vehicles. The arm had to be developed for given dimensions choosing the right working space, the constraints like the cost, practicality, size, etc and many other factors suggested by the company too. Also control systems had to be implemented in MATLAB and Simulink and the plots were explained in the final design report of the robotic arm designed. The animation video for this project is also available on the YouTube channel.",
+        "image": "/images/interiit2022jlr.png",
+        "video":"https://youtu.be/_ML-A-CZvcg?si=FrVEPdOg93SUxSZV"
+    },
+    {
+        "name": "Self Driving Car Simulation (NXP AIM 2022 Competition)",
+        "description": "An autonomous four wheeled ground robot was used to test and develop algorithms for self driving on given tracks in Gazebo environment where the car had to be controlled using ROS2 and computer vision like YOLOV5 was used for object detection, classification and avoidance for the static and dynamic obstacles present on and near the tracks. The track also had varying terrain like uphill, downhill drives, etc where the pose had to be controlled using the right information from odometry topics that were subscribed to. You can watch the video for the results achieved from this project.",
+        "image": "/images/nxpaim2022.png",
+        "github":"https://github.com/Pranay-Pandey/self_driving_car",
+        "video":"https://drive.google.com/file/d/1TNXV4ZL6tN5DBv1btDhyzr5UO4RZSoLL/view"
+    },
+    {
+        "name": "Sentinel Drone",
+        "description": "This project was part of the eYRC IITB 2022-23 competition where the team reached the finals completing the final task 6. We had to develop the drone was remote rescue operations identifying anomalies like yellow colored boxes randomly searching a given search space (arena) and take its images, save them and send to the ground control station which would then do the feature matching with a .tif satellite image and finally georeference the image giving the right longitude and latitude coordinates and plotting them in QGIS.",
+        "image": "/images/eyrcsentineldrone.webp",
+        "github":"https://github.com/dhruvsh-1729/eyrc22_SD_1785",
+        "video":"https://youtu.be/evg6zYMV03U"
+    },
+    {
+        "name": "Autonomous Warehouse Robot",
+        "description": "This project was developed for autonomous warehouse management where in pick and place operations could be done autonomusly. This powerful bot weighed about 3 kilograms with a scissor jack weld on top powered by a portable powerful gear motor. The localisation was done through computer vision using overhead cameras in the arena and the Aruco markers were used for pose estimation and navigation setting target waypoints for the robot.",
+        "image": "/images/Bot_4.jpeg",
+        "github":"https://github.com/dhruvsh-1729/NVCTI-Winter-Challenge-Hustlers",
+        "video":"https://drive.google.com/file/d/1L1_ZlJt8k8v22MaW8Eo6A-hhQaJUXBTD/view?usp=sharing"
+    },
+    {
+        "name": "Autonomous Crop Spraying Drone and Battery Swapping Arm Simulation",
+        "description": "An autonomous crop spraying drone simulation was developed with the simulation of an autonomous battery swapping robotic arm in ROS, Gazebo, PX4 Autopilot and Visual Python. The constraints were properly understood and an optimised drone design for the required payload and flight time with apt range was designed and implemented in simulation. The project is still in progress with leads in object detection, classification and avoidance with a camera onboard on the drone.",
+        "image": "/images/autonomousdronecrop.webp",
+        "video":"https://youtu.be/ncElqPy8ckY?si=hBO3YChm5rdYlPT4"
+    },
+    {
+        "name": "Google Cartographer SLAM Indoor Simulation",
+        "description": "An autonomous four wheeled ground robot was used to test Google Cartographer SLAM method in indoor environment in simulation using ROS and Gazebo. The aim was to choose the best 2D LiDAR SLAM method in practice for four wheeled ground robots. GMapping, Karto SLAM, Hector SLAM and Google Cartographer SLAM were tested in the same conditions out of which Google Cartographer SLAM performed the best though it required LIDAR, Odometry, Encoder, etc data for proper results according to literature.",
+        "image": "/images/googlecartographer.webp",
+        "github":"https://github.com/dhruvsh-1729/Google_Cartographer_Turtlebot3",
+        "video":"https://youtu.be/2wkjjHiL8Fs?si=TYLuRhb9DlLj3duH"
+    },
+    {
         "name": "Flying machine",
         "description": "The project was aimed to develop an autonomous flying drone (specifically quadcopter). The drone was equipped with DJI’s Naza M V2 flight controller, connected to four ESC. The ESC takes the signal from the flight controller and power from the battery and makes the brushless motor spin. The flight controller uses the response of the barometer and the GPS module to detect hight and distance. The barometer was used to set the height of the drone at a fixed distance from the land. The GPS module provides waypoints to the drone to navigate and traverse from one location to another using GPS coordinates. The drone was able to achieve GPS lock and altitude lock during the flight.        ",
         "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/2.png"

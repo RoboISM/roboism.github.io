@@ -9,8 +9,13 @@
             {{ include.project.description }}
         </div>
         {% if include.project.github %}
-            <a href="{{ include.project.github }}" class="project__link">
+            <a href="{{ include.project.github }}" target="_blank" class="project__link">
                 View Github
+            </a>
+        {% endif %}
+        {% if include.project.video %}
+            <a href="{{ include.project.video }}" target="_blank" class="project__link">
+                View Video
             </a>
         {% endif %}
     </div>
