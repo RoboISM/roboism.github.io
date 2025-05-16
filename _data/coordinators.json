@@ -1,26 +1,35 @@
 [
     {
-        "name": "Prof. Zafar Alam",
+        "name": "Prof. Mrinal Sen",
         "position": "Faculty In Charge",
-        "image": "/images/members/profs/zafar-alam-sir.jpeg",
-        "linkedin": "https://in.linkedin.com/in/zafar-alam-555670a6",
-        "email": "zafar@iitism.ac.in"
+        "image": " ",
+        "linkedin": " ",
+        "email": " "
+    },
+
+    {
+        "name": "Prof. Arun Dayal Udai",
+        "position": "Co Faculty In Charge",
+        "image": "/images/members/profs/arunudai-sir.jpg",
+        "youtube": "https://www.youtube.com/user/arunudai",
+        "linkedin":"https://in.linkedin.com/in/arunudai",
+        "email": "arunudai@iitism.ac.in"
     },
     {
-        "name": "Shreyansh Shandilya",
+        "name": "Siddharth Gorai",
         "position": "Coordinator",
-        "image": "/images/members/coordinators/shreyanshshandilya.jpeg",
-        "linkedin": "https://www.linkedin.com/in/shreyansh-shandilya-5a8b1b246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-        "github": "https://github.com/shreyanshandilya",
-        "email": "shreyanshandilya@gmail.com",
-        "backgroundPosition": "top"
+        "image": " ",
+        "linkedin": "https://www.linkedin.com/in/siddharth-gorai-ab01a7254/",
+        "github": " ",
+        "email": " ",
+        "backgroundPosition": " "
     },
     {
-        "name": "Ebad Sayed",
+        "name": "Alok Raj",
         "position": "Coordinator",
-        "image": "/images/members/coordinators/ebadsayed.jpeg",
-        "linkedin": "https://www.linkedin.com/in/ebad-sayed-0861a6227/",
-        "github": "https://github.com/ES7",
-        "email": "sayedebad.777@gmail.com"
+        "image": " ",
+        "linkedin": "https://www.linkedin.com/in/loki-silvres/",
+        "github": " ",
+        "email": " "
     }
 ]
