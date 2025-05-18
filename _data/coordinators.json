@@ -2,9 +2,9 @@
     {
         "name": "Prof. Mrinal Sen",
         "position": "Faculty In Charge",
-        "image": "/images/members/coordinators/mrinal_sen_sir.jpg",
-        "linkedin": " ",
-        "email": " "
+        "image": "/images/members/coordinators/mrinal_sen_sir.png",
+        "linkedin": "https://www.linkedin.com/in/mrinal-sen-a51382289/",
+        "email": "mrinalsen@iitism.ac.in"
     },
 
     {
@@ -20,8 +20,8 @@
         "position": "Coordinator",
         "image": "/images/members/coordinators/siddharth_gorai.jpg",
         "linkedin": "https://www.linkedin.com/in/siddharth-gorai-ab01a7254/",
-        "github": " ",
-        "email": " ",
+        "github": "https://github.com/SiddharthGorai",
+        "email": "goraisiddharth@gmail.com",
         "backgroundPosition": " "
     },
     {
