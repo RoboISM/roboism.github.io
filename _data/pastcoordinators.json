@@ -4,8 +4,24 @@
         "position": "Former Faculty In Charge",
         "image": "/images/members/profs/arunudai-sir.jpg",
         "youtube": "https://www.youtube.com/user/arunudai",
-        "linkedin":"https://in.linkedin.com/in/arunudai",
+        "linkedin": "https://in.linkedin.com/in/arunudai",
         "email": "arunudai@iitism.ac.in"
+    },
+    {
+        "name": "Shreyansh Shandilya",
+        "position": "2023-24 Coordinator",
+        "image": "/images/members/coordinators/shreyanshshandilya.jpeg",
+        "linkedin": "https://www.linkedin.com/in/shreyanshandilya/",
+        "github": "https://github.com/shreyanshandilya",
+        "email": "connect@shreyanshandilya.me"
+    },
+    {
+        "name": "Ebad Sayed",
+        "position": "2023-24 Coordinator",
+        "image": "/images/members/coordinators/ebadsayed.jpeg",
+        "linkedin": "https://www.linkedin.com/in/ebad-sayed-0861a6227/",
+        "github": "https://github.com/ES7",
+        "email": "sayedebad.777@gmail.com"
     },
     {
         "name": "Aman Pandey",
@@ -49,12 +65,12 @@
         "linkedin": " https://www.linkedin.com/in/kasina-jyothi-swaroop-b62259168",
         "github": "  https://github.com/kjyothiswaroop",
         "email": "kasina.18je0405@ee.iitism.ac.in"
-      },
-      {
+    },
+    {
         "name": "Srajan Gupta",
         "position": "2020-21 Coordinator",
         "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/members/Srajan Gupta.jpg",
         "linkedin": "https://www.linkedin.com/in/srajan-gupta-4a9650172",
         "email": "srajan.gupta.712@gmail.com"
-      },
+    }
 ]
